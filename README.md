@@ -11,7 +11,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -30,6 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/akshit-anand/frontend-mentor/tree/main/stats-preview-card-component)
+- Live Site URL: [Live Site](https://akshit-anand.github.io/stats-preview-card-component-frontendmentor/)
 
 ## My process
 
@@ -49,13 +49,6 @@ I learned how to change/reverse two sections position without changing the html 
   flex-direction: column-reverse;
 }
 ```
-
-### Useful resources
-
-- [CSS-TRICKS FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [W3SCHOOLS CSS](https://www.w3schools.com/css/default.asp)
-
-  These resources helped me to learn and understand html and css and helped in to complete the project
 
 ## Author
 
