@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/akshit-anand/frontend-mentor/tree/main/stats-preview-card-component)
+- Solution URL: [Github](https://github.com/akshit-anand/stats-preview-card-component-frontendmentor)
 - Live Site URL: [Live Site](https://akshit-anand.github.io/stats-preview-card-component-frontendmentor/)
 
 ## My process
